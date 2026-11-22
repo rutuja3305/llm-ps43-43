@@ -1,0 +1,42 @@
+[
+  {
+    "name": "1. CS student targeting Software Engineer",
+    "headline": "B.Tech CSE Student",
+    "about": "I am a final year computer science student. I like coding and want to work in a good company.",
+    "skills": "Python, Java, SQL, React, Git, Data Structures, REST APIs",
+    "target_role": "Software Engineer",
+    "goals": "Looking for a fresher SDE role in a product company in Pune or Bengaluru."
+  },
+  {
+    "name": "2. B.Com graduate targeting Digital Marketing",
+    "headline": "Commerce Graduate | Fresher",
+    "about": "Completed B.Com. Did a short internship in social media handling for a local shop. Looking for opportunities.",
+    "skills": "Social media management, Canva, Content writing, Google Analytics basics, MS Excel",
+    "target_role": "Digital Marketing Executive",
+    "goals": "Want to learn SEO and paid campaigns."
+  },
+  {
+    "name": "3. Mechanical engineer moving to Data Analytics",
+    "headline": "Mechanical Engineer",
+    "about": "I studied mechanical engineering and worked on a CAD project in college. Now learning data analysis.",
+    "skills": "Excel, Python, Pandas, SQL, Power BI, AutoCAD",
+    "target_role": "Data Analyst",
+    "goals": "Switch into analytics roles in manufacturing or supply chain."
+  },
+  {
+    "name": "4. Fresher with an empty About section",
+    "headline": "Student at MIT-ADT University",
+    "about": "",
+    "skills": "Python, Machine Learning, Streamlit, Pandas, Scikit-learn, Git",
+    "target_role": "AI/ML Engineer",
+    "goals": "Interested in applied AI projects and internships."
+  },
+  {
+    "name": "5. IT diploma student targeting Cloud Support",
+    "headline": "Diploma in IT | Learning Cloud",
+    "about": "I completed my diploma in information technology and have set up a home lab with Linux virtual machines. Studying for AWS Cloud Practitioner.",
+    "skills": "Linux, Networking basics, AWS (learning), Bash, Troubleshooting",
+    "target_role": "Cloud Support Associate",
+    "goals": ""
+  }
+]
